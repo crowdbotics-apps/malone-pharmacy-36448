@@ -1010,7 +1010,7 @@
   dependencies:
     react-native-actionsheet "^2.4.2"
 
-"@modules/chat@file:./modules/chat/":
+"@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
     pubnub "^4.29.11"
@@ -1243,6 +1243,9 @@
     redux "^4.1.2"
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
+
+"@screens/billing@file:./screens/billing/":
+  version "1.0.0"
 
 "@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
