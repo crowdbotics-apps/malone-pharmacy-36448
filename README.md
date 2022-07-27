@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [screen-billing](screens/billing)
 - [screen-barcode-scanner](screens/barcode-scanner)
+- [react-native-app-menu](modules/app-menu)
 
 # Getting started: Frontend
 
