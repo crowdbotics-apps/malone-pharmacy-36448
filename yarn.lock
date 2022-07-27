@@ -1217,7 +1217,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/notifications@file:./screens/notifications/":
+"@screens/menu@file:./screens/menu/":
+  version "1.0.0"
+
+"@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
 "@screens/signature@file:./screens/signature":
