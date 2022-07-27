@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-signature](screens/signature)
 - [screen-notifications-list](screens/notifications)
 - [screen-menu](screens/menu)
+- [screen-login](screens/login)
 
 # Getting started: Frontend
 
